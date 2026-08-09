@@ -1,0 +1,3 @@
+
+
+# basic-locales-supported-generate

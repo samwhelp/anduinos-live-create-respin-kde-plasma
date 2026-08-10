@@ -26,9 +26,9 @@
 
 | Project |
 | ------- |
-| [anduinos-iso-builder-template](https://github.com/samwhelp/anduinos-iso-builder-template) |
+| [anduinos-live-create-template](https://github.com/samwhelp/anduinos-live-create-template) |
 | `+` |
-| [anduinos-iso-builder-remix-kde-plasma](https://github.com/samwhelp/anduinos-iso-builder-remix-kde-plasma) |
+| [anduinos-live-create-remix-kde-plasma](https://github.com/samwhelp/anduinos-live-create-remix-kde-plasma) |
 | `=` |
 | [anduinos-live-create-respin-kde-plasma](https://github.com/samwhelp/anduinos-live-create-respin-kde-plasma) |
 
